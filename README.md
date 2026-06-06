@@ -65,6 +65,3 @@ chemnitz/
 - The map is centered on Chemnitz (`50.8323, 12.9253`) and uses OpenStreetMap tiles.
 - CORS is configured for `http://localhost:3000`; update the origin in `src/index.js` and the OAuth redirect URIs when deploying.
 
-## License
-
-ISC
